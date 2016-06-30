@@ -1,0 +1,1987 @@
+<packdefinitions>
+
+<pack>
+	<packtitle>180 Basic Energy Cards</packtitle>
+	<packimage>energy</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Energy</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>XY</data></packcommoncrit>
+	<chance>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Grass Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Fire Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Water Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Lightning Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Psychic Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Fighting Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Darkness Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Metal Energy (XY)</data></crit></kind>
+		<kind><qty>20</qty><crit><field>Name</field><eval>IS</eval><data>Fairy Energy (XY)</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Base Set Booster</packtitle>
+	<packimage>BS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BS</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Jungle Booster</packtitle>
+	<packimage>JU</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>JU</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Fossil Booster</packtitle>
+	<packimage>FO</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>FO</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Base Set 2 Booster</packtitle>
+	<packimage>B2</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>B2</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Team Rocket Booster</packtitle>
+	<packimage>TR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TR</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Gym Heroes Booster</packtitle>
+	<packimage>GH</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>GH</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Gym Challenge Booster</packtitle>
+	<packimage>GC</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>GC</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Neo Genesis Booster</packtitle>
+	<packimage>N1</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>N1</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Neo Discovery Booster</packtitle>
+	<packimage>N2</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>N2</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Neo Revelation Booster</packtitle>
+	<packimage>N3</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>N3</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Neo Destiny Booster</packtitle>
+	<packimage>N4</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>N4</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shining Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Legendary Collection Booster</packtitle>
+	<packimage>LC</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>LC</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>7</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Expedition Booster</packtitle>
+	<packimage>EX</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>EX</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Aquapolis Booster</packtitle>
+	<packimage>AQ</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>AQ</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Skyridge Booster</packtitle>
+	<packimage>SK</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SK</data></packcommoncrit>
+	<chance>
+		<prob>82</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>18</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Ruby and Sapphire Booster</packtitle>
+	<packimage>RS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>RS</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Sandstorm Booster</packtitle>
+	<packimage>SS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SS</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Dragon Booster</packtitle>
+	<packimage>DR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DR</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Team Magma vs Team Aqua Booster</packtitle>
+	<packimage>MA</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>MA</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Hidden Legends Booster</packtitle>
+	<packimage>HL</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>HL</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX FireRed and LeafGreen Booster</packtitle>
+	<packimage>RG</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>RG</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Team Rocket Returns Booster</packtitle>
+	<packimage>TRR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TRR</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Deoxys Booster</packtitle>
+	<packimage>DX</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DX</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Emerald Booster</packtitle>
+	<packimage>EM</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>EM</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Unseen Forces Booster</packtitle>
+	<packimage>UF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>UF</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Delta Species Booster</packtitle>
+	<packimage>DS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DS</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Legend Maker Booster</packtitle>
+	<packimage>LM</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>LM</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Holon Phantoms Booster</packtitle>
+	<packimage>HP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>HP</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Crystal Guardians Booster</packtitle>
+	<packimage>CG</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>CG</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Dragon Frontiers Booster</packtitle>
+	<packimage>DF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DF</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>EX Power Keepers Booster</packtitle>
+	<packimage>PK</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PK</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Diamond and Pearl Booster</packtitle>
+	<packimage>DP</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DP</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Mysterious Treasures Booster</packtitle>
+	<packimage>MT</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>MT</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Secret Wonders Booster</packtitle>
+	<packimage>SW</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SW</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Great Encounters Booster</packtitle>
+	<packimage>GE</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>GE</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Majestic Dawn Booster</packtitle>
+	<packimage>MD</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>MD</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Legends Awakened Booster</packtitle>
+	<packimage>LA</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>LA</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Stormfront Booster</packtitle>
+	<packimage>SF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SF</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Platinum Booster</packtitle>
+	<packimage>PL</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PL</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Rising Rivals Booster</packtitle>
+	<packimage>RR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>RR</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Supreme Victors Booster</packtitle>
+	<packimage>SV</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SV</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Arceus Booster</packtitle>
+	<packimage>AR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>AR</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo LV.X</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>HeartGold and SoulSilver Booster</packtitle>
+	<packimage>HS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>HS</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo Legend</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Unleashed Booster</packtitle>
+	<packimage>UL</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>UL</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo Legend</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Undaunted Booster</packtitle>
+	<packimage>UD</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>UD</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo Legend</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Triumphant Booster</packtitle>
+	<packimage>TM</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TM</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo Legend</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Call of Legends Booster</packtitle>
+	<packimage>CL</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>CL</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Shiny Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Black and White Booster</packtitle>
+	<packimage>BLW</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BLW</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Emerging Powers Booster</packtitle>
+	<packimage>EPO</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>EPO</data></packcommoncrit>
+	<chance>
+		<prob>84</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Noble Victories Booster</packtitle>
+	<packimage>NVI</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>NVI</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Next Destinies Booster</packtitle>
+	<packimage>NXD</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>NXD</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Dark Explorers Booster</packtitle>
+	<packimage>DEX</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DEX</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Dragons Exalted Booster</packtitle>
+	<packimage>DRX</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DRX</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Dragon Vault Booster</packtitle>
+	<packimage>DRV</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DRV</data></packcommoncrit>
+	<chance>
+		<prob>100</prob>
+		<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data></data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Boundaries Crossed Booster</packtitle>
+	<packimage>BCR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BCR</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Plasma Storm Booster</packtitle>
+	<packimage>PLS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PLS</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Plasma Freeze Booster</packtitle>
+	<packimage>PLF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PLF</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Plasma Blast Booster</packtitle>
+	<packimage>PLB</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PLB</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Legendary Treasures Booster</packtitle>
+	<packimage>LTR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>LTR</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>XY Booster</packtitle>
+	<packimage>XY</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>XY</data></packcommoncrit>
+	<chance>
+		<prob>76</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Flashfire Booster</packtitle>
+	<packimage>FLF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>FLF</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Furious Fists Booster</packtitle>
+	<packimage>FFI</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>FFI</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Phantom Forces Booster</packtitle>
+	<packimage>PHF</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PHF</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Primal Clash Booster</packtitle>
+	<packimage>PRC</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>PRC</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Double Crisis Booster</packtitle>
+	<packimage>DCR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DCR</data></packcommoncrit>
+	<chance>
+		<prob>85</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>15</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Roaring Skies Booster</packtitle>
+	<packimage>ROS</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>ROS</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>Ancient Origins Booster</packtitle>
+	<packimage>AOR</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>AOR</data></packcommoncrit>
+	<chance>
+		<prob>74</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>11</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>8</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+<pack>
+	<packtitle>BREAKthrough Booster</packtitle>
+	<packimage>BTH</packimage>
+	<packformat>Standard</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BTH</data></packcommoncrit>
+	<chance>
+		<prob>72</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>12</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo ex</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>5</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare Holo BREAK</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>4</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Super Rare Holo</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Secret Rare</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+	</chance>
+</pack>
+
+</packdefinitions>
